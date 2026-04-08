@@ -1,5 +1,6 @@
 ---
 title: SolidWorks 学习记录
+date: 2024-12-17
 description: 更新ing 以后整理
 tags: 
   - 机器人

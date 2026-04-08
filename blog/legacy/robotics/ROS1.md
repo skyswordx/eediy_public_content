@@ -1,5 +1,6 @@
 ---
 title: ROS1 总结文档
+date: 2024-07-12
 description: 有待整理，化繁为简，断舍离
 tags: 
   - 机器人

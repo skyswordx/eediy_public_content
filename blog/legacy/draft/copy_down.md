@@ -1,5 +1,6 @@
 ---
 title: 记录喜欢的诗集
+date: 2025-01-10
 description: 不会取名字
 tags: 
   - 写写写写

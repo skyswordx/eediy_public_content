@@ -1,5 +1,6 @@
 ---
 title: 搭建 PX4-ROS-AirSim 仿真环境
+date: 2024-12-18
 description: 有待整理，化繁为简，断舍离
 tags: 
   - 机器人

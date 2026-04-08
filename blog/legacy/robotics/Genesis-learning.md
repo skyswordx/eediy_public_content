@@ -1,5 +1,6 @@
 ---
 title: 生成式物理引擎 Genesis 配置踩坑记录
+date: 2024-12-19
 description: 暂时完结，感谢 github 的各位大佬
 tags: 
     - 机器人

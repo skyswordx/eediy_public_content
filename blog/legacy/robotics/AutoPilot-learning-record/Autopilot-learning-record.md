@@ -1,5 +1,6 @@
 ---
 title: 自动驾驶相关组件的学习记录
+date: 2025-04-17
 description: 更新 ing | 更新完 PID 部分
 tags: 
   - 机器人

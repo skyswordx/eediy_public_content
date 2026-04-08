@@ -1,5 +1,6 @@
 ---
 title: 从零开始的数据结构之旅
+date: 2025-03-22
 description: 这是我 github 仓库文档的可视化展示
 tags: 
   - 数据结构与算法

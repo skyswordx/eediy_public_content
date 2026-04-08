@@ -1,5 +1,6 @@
 ---
 title: 从零开始的 PX4-ROS 之旅 
+date: 2024-12-18
 description: 有待整理，化繁为简，断舍离
 tags: 
   - 机器人

@@ -1,5 +1,6 @@
 ---
 title: WSL-Ubuntu-conda 环境中找不到 lib.so 动态库
+date: 2024-12-21
 description: debug 了一个早上和一个中午
 tags: 
   - 机器人
