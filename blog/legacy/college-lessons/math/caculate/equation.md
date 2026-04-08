@@ -61,7 +61,7 @@ $$
 
 积分方程的初值条件隐藏在积分上下限里，比如 $\displaystyle \begin{align}\int_{x_{0}}^{x}\phi (x)=... \\隐含\phi (x_{0})=...\end{align}$ 代入 $\displaystyle x_{0}$ 到积分方程
 多阶积分方程会隐含多个初值条件，积分方程求导的公式
-对这个函数  $\displaystyle F(x)=\int ^{\phi_{1}(x)}_{\phi_{2}(x)} f(x,t)\,dt$ 求导得到 $\displaystyle F'(x)=f(x,\phi_{1}(x))\phi_{1}(x)'-f(x,\phi_{2}(x))\phi_{2}'(x)+\int ^{\phi_{1}(x)}_{{\phi_{2}(x)}}\frac{\partial f(x,t)}{\partial x}\, dt$
+对这个函数  $\displaystyle F(x)=\int ^{\phi_{1}(x)}_{\phi_{2}(x)} f(x,t)\,dt$ 求导得到 $\displaystyle F'(x)=f(x,\phi_{1}(x))\phi_{1}(x)'-f(x,\phi_{2}(x))\phi_{2}'(x)+\int ^{\phi_{1}(x)}_{\phi_{2}(x)}\frac{\partial f(x,t)}{\partial x}\, dt$
 
 在处理多阶积分方程一定要注意初值条件
 
