@@ -8,7 +8,7 @@ title: 旧博客导读与当前分类映射
 
 ## 按现在的知识体系浏览
 
-### 信号与控制
+### [信号与控制](./signal_control)
 
 这一组对应我私有知识库里的 `private_signal_control`。
 
@@ -20,7 +20,7 @@ title: 旧博客导读与当前分类映射
 - `2024-04-03` [常微分方程](college-lessons/math/caculate/equation)
 - `2024-04-22` [级数](college-lessons/math/caculate/number)
 
-### 机器人系统与工程实践
+### [机器人系统与工程实践](./robotics_systems)
 
 这一组对应 `private_robotics`。
 
@@ -29,7 +29,7 @@ title: 旧博客导读与当前分类映射
 - `2024-12-17` [SolidWorks 学习记录](robotics/SolidWorks-Learning)
 - `2024-12-18` [从零开始的 PX4-ROS 之旅](robotics/ROS-summary/PX4-ROS-LEARNING)
 
-### 仿真、环境与工具链
+### [仿真、环境与工具链](./env_toolchain)
 
 这一组目前也先放在 `private_robotics`，后续再继续拆出更清晰的问题库。
 
@@ -38,20 +38,20 @@ title: 旧博客导读与当前分类映射
 - `2024-12-19` [生成式物理引擎 Genesis 配置踩坑记录](robotics/Genesis-learning)
 - `2024-12-21` [WSL-Ubuntu-conda 环境中找不到 lib.so 动态库](robotics/GPU-Setup/cannot-find-libxxx.so)
 
-### 自动驾驶与强化学习
+### [自动驾驶与强化学习](./embodied_ai)
 
 这一组对应 `private_embodied_ai`。
 
 - `2025-04-17` [自动驾驶相关组件的学习记录](robotics/AutoPilot-learning-record/Autopilot-learning-record)
 - `2025-12-07` [从零开始的 RL 之旅](robotics/RL/强化学习-第一章-基本概念)
 
-### 计算机科学
+### [计算机科学](./computer_science)
 
 这一组对应 `private_computer_science`。
 
 - `2025-03-22` [从零开始的数据结构之旅](data-algo/MY-DATA-STRUCTURE)
 
-### 草稿与表达
+### [草稿与表达](./writing)
 
 这一组对应 `private_writing`。
 
