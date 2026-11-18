@@ -51,9 +51,9 @@ cssclasses:
 <div class="home-entry-grid">
   <a class="home-entry-card" href="./blog/">
     <span class="home-entry-label">博客</span>
-    <strong>旧文、专题线、迁移记录与长期写作</strong>
-    <p>课程笔记、机器人、强化学习和数字花园重构，都会先从这里收口。</p>
+    <strong>学习笔记、技术实践与长期写作</strong>
+    <p>从日常学习与实践出发，逐篇整理值得分享的内容。</p>
   </a>
 </div>
 
-如果你是第一次来，可以先从 [博客](./blog/) 开始。强化学习相关内容目前也先并入这里统一导读。
+公开内容正在重新整理，新文章将陆续发布在 [博客](./blog/)。
