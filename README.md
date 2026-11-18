@@ -1,16 +1,7 @@
-# eediy_public_content
+# eediy_public_content · 已停用
 
-`eediy_public_content` 是 `eediy_wiki` 的公开内容导出仓。
+公开正文已迁入 [eediy_publish_site/content](https://github.com/skyswordx/eediy_publish_site/tree/main/content)。网站仍为 <https://www.circlemoon.top/>。
 
-它只承载准备公开发布的内容，不承担人类长期主写作本体。
+现在由 `eediy_publish_site` 单仓维护公开正文、Quartz 样式和 GitHub Pages 部署。本仓仅保留迁移历史，不再作为构建输入或接收文章更新。
 
-## 角色
-
-- `blog/`：公开主入口，承接博客正文、导读页与专题页
-- `assets/`：公开可发布的资源文件
-
-## 约束
-
-- 不要把私有原始笔记直接堆进这里
-- 需要公开的内容应从 `private_*` / `llm_wiki` 导出到这里
-- 历史旧博客迁移内容可作为基线保存在这里
+日常笔记仍在私有 AAA/Notes 写作，逐篇整理后进入新仓的 `content/blog/`。此前下线的旧文章已存于 AAA/References，不会因本次迁移重新发布。
